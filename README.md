@@ -7,3 +7,7 @@ En la PARTE DERECHA  Mostrara el dinero que nos queda  y  los q nos falta  en ga
 Ingresamos el nombre  del producto 
 ingresamos  la cantidad de dicho producto  y le daremos agregar 
 Se mostrara el resultado de tu gasto 
+
+
+link
+https://guidolzc.github.io/gastoSemanal/
