@@ -1,5 +1,5 @@
 
-//Budgets for a Javascript Expense
+# Budgets for a Javascript Expense
 
 Budget for spending the week or the day
 
@@ -19,7 +19,7 @@ The result of your spending will be displayed
 link:
 https://guidolzc.github.io/gastoSemanal/
 
- //PRESUPUESTO PARA GASTO EN JAVASCRIPT
+# PRESUPUESTO PARA GASTO EN JAVASCRIPT
 
 Presupuesto para pasar la semana o el día
 
