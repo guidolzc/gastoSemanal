@@ -21,7 +21,7 @@ https://guidolzc.github.io/gastoSemanal/
 
 # PRESUPUESTO PARA GASTO EN JAVASCRIPT
 
-Presupuesto para pasar la semana o el día
+Presupuesto para pasar la semana o el día 
 
 ponemos la cantidad de dinero que tenemos o queremos gastar
 
